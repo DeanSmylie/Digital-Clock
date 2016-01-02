@@ -1,0 +1,13 @@
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.manifest
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\bin\Debug\DigitalClock.application
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe.manifest
+E:\Documents\Visual Studio 2013\DigitalClock\DigitalClock\obj\Debug\DigitalClock.application
